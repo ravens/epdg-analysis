@@ -1,0 +1,11 @@
+{
+  "name": "epdg-analysis",
+  "version": "1.0.0",
+  "description": "ePDG reporte generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yan Grunenberger <yan@grunenberger.net>",
+  "license": "ISC"
+}
